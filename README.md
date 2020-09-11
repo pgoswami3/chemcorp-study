@@ -11,6 +11,18 @@ Unfortunately, X’s sales revenue dropped by ~10% due to competition.
 ## Context
 Constant rising demand for chemicals in various industries has given X Inc, a steady and robust growth, year after year. With favorable growth rates and lowered barriers to entry, other companies have stepped into the market. New start-ups are offering unique/similar chemicals at lower production costs, and this has caused our customers to re-evaluate their business at X. If this trend continues, then the board can lose confidence in existing management and its ability to resource strategic goals. 
 
+
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Untitled%20Diagram(1).jpg" 
+    width="500" 
+    height="790" 
+  />
+</p>
+
+
+
 ## Criteria for success
 1) Customer Strategy, what, how, and which products bring the sales, total net profit, and how to maximize them.
 2) Market opportunity, finding on which business segment and product delivers the highest profit margins and how to optimize them.
