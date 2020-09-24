@@ -43,4 +43,15 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 2) Various business units where the customer base is distributed vastly, where divesting or discontinuing, will equally hurt the business. No low performing units and all are performing at average.
 3) Limited data on influences shaping market trends
 
-##
+## Action Plan
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/ChemCorp%20Action%20Plan.jpg" 
+    width="750" 
+    height="450" 
+  />
+</p>
+
+
+
