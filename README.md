@@ -3,13 +3,13 @@
 <b> Creating the hypothesis with an emphasis on SMART principles. (S – Specific, M – Measurable, A – Achievable, R – Realistic, T – Timebound)</b>
 
 ## Problem Statement
-X Inc, a Fortune 500 company, has a year-on-year average growth of 7% thanks to rising demand in the chemical market. 
-Unfortunately, X’s sales revenue dropped by ~10% due to competition. 
+ChemCorp Inc, a Fortune 500 company, has a year-on-year average growth of 7% thanks to rising demand in the chemical market. 
+Unfortunately, ChemCorp’s sales revenue dropped by ~10% due to competition. 
 
-<b> What opportunities exist for X to improve the sales numbers by 15% within the next 6,12 and 18 months? </b>
+<b> What opportunities exist for ChemCorp to improve the sales numbers by 15% within the next 6,12 and 18 months? </b>
 
 ## Context
-Constant rising demand for chemicals in various industries has given X Inc, a steady and robust growth, year after year. With favorable growth rates and lowered barriers to entry, other companies have stepped into the market. New start-ups are offering unique/similar chemicals at lower production costs, and this has caused our customers to re-evaluate their business at X. If this trend continues, then the board can lose confidence in existing management and its ability to resource strategic goals. 
+Constant rising demand for chemicals in various industries has given ChemCorp Inc, a steady and robust growth, year after year. With favorable growth rates and lowered barriers to entry, other companies have stepped into the market. New start-ups are offering unique/similar chemicals at lower production costs, and this has caused our customers to re-evaluate their business at ChemCorp. If this trend continues, then the board can lose confidence in existing management and its ability to resource strategic goals. 
 
 
 
