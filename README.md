@@ -93,16 +93,6 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
   />
 </p>
 
-## BCG Matrix
-
-<p align="center">
-  <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/BCG-Matrix.png" 
-    width="750" 
-    height="450" 
-  />
-</p>
-
 ## State Affairs
 
 <p align="center">
@@ -110,6 +100,27 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/State%20Affairs.png" 
     width="850" 
     height="550" 
+  />
+</p>
+
+## State Affairs
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/States-Negative%20Growth.png" 
+    width="850" 
+    height="550" 
+  />
+</p>
+
+
+## BCG Matrix
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/BCG-Matrix.png" 
+    width="750" 
+    height="450" 
   />
 </p>
 
