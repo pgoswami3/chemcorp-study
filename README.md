@@ -43,6 +43,57 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 2) Various business units where the customer base is distributed vastly, where divesting or discontinuing, will equally hurt the business. No low performing units and all are performing at average.
 3) Limited data on influences shaping market trends
 
+## Industry Treemap
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Industry-Treemap.png" 
+    width="750" 
+    height="450" 
+  />
+</p>
+
+## Products Treemap
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Product-Treemap.png" 
+    width="750" 
+    height="450" 
+  />
+</p>
+
+## MoM & Volatility
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/MoM%20&%20Volatility.png" 
+    width="750" 
+    height="550" 
+  />
+</p>
+
+## Business and Profit Margin
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Business%20&%20Profit-Margin.png" 
+    width="750" 
+    height="550" 
+  />
+</p>
+
+## Market Share
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Share.png" 
+    width="750" 
+    height="450" 
+  />
+</p>
+
+
 ## Action Plan
 
 <p align="center">
