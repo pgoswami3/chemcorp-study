@@ -45,6 +45,7 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 
 ## Industry Treemap
 
+From the early analysis it’s quite clear that Paper and Packaging industry brings a whopping $21 million in revenue, which is 51% of the total contribution
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/Industry-Treemap.png" 
@@ -55,6 +56,7 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 
 ## Products Treemap
 
+Leading chemical products like Chemical K has the largest market share (23%) at Chemcorp, followed by Chemical H and Chemical I at 13% and 12% respectively. Products like Chemical A and J has the lowest market share and a possibly bleak future as in the continuation of a product at Chemcorp.
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/Product-Treemap.png" 
@@ -65,6 +67,7 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 
 ## MoM & Volatility
 
+Every single product shows a seasonal trend at Chemcorp
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/MoM%20&%20Volatility.png" 
@@ -75,6 +78,9 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 
 ## Business and Profit Margin
 
+- Industry like Machinery and Industrial Goods has the highest number of businesses (15,575). However, it only yields 11% of the total revenue, whereas as shown above, Paper and Packaging yields 51% of revenue shares has only 4329 business.
+- Among all the products, Chemical A and B yields the lowest amount of profit margin across all industries with a few exceptions.
+- Chemical E yields >86% of profit margin across all industries (1)
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/Business%20&%20Profit-Margin.png" 
@@ -83,8 +89,10 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
   />
 </p>
 
-## Market Share
+## Market Share - Customer Share
 
+- There are different products, dominating different markets. Chemical K, H and I have a high-profit share for Paper and Packaging industry where other products don’t perform well. On the other hand, products like Chemical J and A has weak profit and market share across all industries.
+- Customer share, products with low market share should be discontinued and use the cost-cutting into R&D or reinvest into the popular products.
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/Share.png" 
@@ -116,6 +124,10 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 
 ## BCG Matrix
 
+- As per the BCG Matrix, products in the first quadrant like Chemical K, H, D and F are STAR product (high market growth rate, high relative market share). 
+
+- In contrast, products in the third quadrant like Chemical A, B, C, G, and J are underdog (low market growth rate, low relative market share). 
+- Chemical E in the 4th quadrant is a cash cow (high market growth rate, low relative market share) which supports the previous analysis (1) where it has the highest profit margin across all industries.
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/BCG-Matrix.png" 
@@ -126,6 +138,7 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 
 ## Action Plan
 
+Short term & Long term action plans
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/chemcorp-study/blob/master/ChemCorp%20Action%20Plan.jpg" 
