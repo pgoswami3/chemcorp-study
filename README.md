@@ -15,7 +15,7 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Untitled%20Diagram(1).jpg" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/Problem%20Statement.jpg" 
     width="500" 
     height="790" 
   />
@@ -48,7 +48,7 @@ Constant rising demand for chemicals in various industries has given ChemCorp In
 From the early analysis it’s quite clear that Paper and Packaging industry brings a whopping $21 million in revenue, which is 51% of the total contribution
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Industry-Treemap.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/Industry-Treemap.png" 
     width="750" 
     height="450" 
   />
@@ -59,7 +59,7 @@ From the early analysis it’s quite clear that Paper and Packaging industry bri
 Leading chemical products like Chemical K has the largest market share (23%) at Chemcorp, followed by Chemical H and Chemical I at 13% and 12% respectively. Products like Chemical A and J has the lowest market share and a possibly bleak future as in the continuation of a product at Chemcorp.
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Product-Treemap.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/Product-Treemap.png" 
     width="750" 
     height="450" 
   />
@@ -70,7 +70,7 @@ Leading chemical products like Chemical K has the largest market share (23%) at 
 Every single product shows a seasonal trend at Chemcorp
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/MoM%20&%20Volatility.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/MoM%20&%20Volatility.png" 
     width="750" 
     height="550" 
   />
@@ -83,7 +83,7 @@ Every single product shows a seasonal trend at Chemcorp
 - Chemical E yields >86% of profit margin across all industries (1)
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Business%20&%20Profit-Margin.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/Business%20&%20Profit-Margin.png" 
     width="750" 
     height="550" 
   />
@@ -95,7 +95,7 @@ Every single product shows a seasonal trend at Chemcorp
 - Customer share, products with low market share should be discontinued and use the cost-cutting into R&D or reinvest into the popular products.
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/Share.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/Share.png" 
     width="750" 
     height="450" 
   />
@@ -105,7 +105,7 @@ Every single product shows a seasonal trend at Chemcorp
 
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/State%20Affairs.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/State%20Affairs.png" 
     width="850" 
     height="550" 
   />
@@ -115,7 +115,7 @@ Every single product shows a seasonal trend at Chemcorp
 
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/States-Negative%20Growth.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/States-Negative%20Growth.png" 
     width="850" 
     height="550" 
   />
@@ -130,7 +130,7 @@ Every single product shows a seasonal trend at Chemcorp
 - Chemical E in the 4th quadrant is a cash cow (high market growth rate, low relative market share) which supports the previous analysis (1) where it has the highest profit margin across all industries.
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/BCG-Matrix.png" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/BCG-Matrix.png" 
     width="750" 
     height="450" 
   />
@@ -141,7 +141,7 @@ Every single product shows a seasonal trend at Chemcorp
 Short term & Long term action plans
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/chemcorp-study/blob/master/ChemCorp%20Action%20Plan.jpg" 
+    src="https://github.com/pgoswami3/chemcorp-study/blob/master/screenshots/ChemCorp%20Action%20Plan.jpg" 
     width="750" 
     height="450" 
   />
